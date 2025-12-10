@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "aboutUs": "Hakkımızda",
+    "ourServices": "Hizmetlerimiz",
+    "ourProducts": "Ürünlerimiz",
+    "references": "Referanslar",
+    "contact": "İletişim"
+  },
+  "about": {
+    "mission": "Misyon",
+    "vision": "Vizyon",
+    "goal": "Hedef",
+    "team": "Takım"
+  },
+  "services": {
+    "training": "Eğitimler",
+    "academia": "Akademi",
+    "courses": "Kurslar",
+    "software": "Yazılım"
+  },
+  "home": {
+    "title": "EMECE YAZILIM",
+    "subtitle": "EĞİTİM VE DANIŞMANLIK",
+    "description": "2024 yılında, İstanbul Medeniyet Üniversitesi Teknopark desteği ile Üniversite-Sektör işbirliği sağlayarak teknolojik bilgi üretmek, yenilik geliştirmek, kalite, verimlilik ve maliyet unsurlarında iyileştirmeler sağlamak, bilgiyi ticarileştirmek, ulusal ve uluslararası işbirliği projeleri ve hizmetleri sunmak amacı ile kurulmuştur.",
+    "discoverServices": "Hizmetlerimizi Keşfedin",
+    "getInTouch": "İletişime Geçin",
+    "successfulProjects": "Başarılı Proje",
+    "happyCustomers": "Mutlu Müşteri",
+    "yearsExperience": "Yıllık Deneyim"
+  },
+  "aboutUs": {
+    "title": "Hakkımızda",
+    "description1": "Size ve şirketinize özel olarak tasarlanmış, sektörünüzde rekabet gücünüzü günden güne artıracak yenilikçi ve kullanıcı dostu mobil çözümlerle teknoloji danışmanlığı ve web uygulamaları sunuyoruz.",
+    "description2": "Sunduğumuz çözüm ve uygulamalarda; iş modelinizi, marka vizyonunuzu ve hedef kitle ya da kullanıcılarınızın özelliklerini ve sizin tercihlerinizi bir arada değerlendiriyoruz. Çok değişkenli bu gelişim süreçlerinin sonucunda ideal uygulamaya ulaşmanızı hedefliyoruz. Verdiğimiz tüm hizmetlerde;",
+    "ourApproach": "Yaklaşımımız",
+    "ourApproachDesc": "Marka değerlerinizi, marka amaçlarınızı, kullanıcı özelliklerinizi ve özel taleplerinizi göz önünde bulunduruyoruz.",
+    "ourCommitment": "Taahhüdümüz",
+    "ourCommitmentDesc": "Bu sayede her bir aşamada başarı sağlayacak ideal ve sürdürülebilir uygulamalara ulaşmanızı sağlıyoruz.",
+    "strategicDevelopment": "Stratejik Gelişim",
+    "strategicDevelopmentDesc": "En iyi sonuçlar için iş planını uygun olarak geliştirilen yazılım ya da uygulamalara dair dönütleri değerlendiriyor ve geleceğe yönelik yeni stratejiler planlamanıza yardımcı oluyoruz.",
+    "expertDevelopers": "Uzman Yazılımcılar",
+    "professionalConsultants": "Profesyonel Teknoloji Danışmanları",
+    "techManagement": "Teknoloji Yönetim Uzmanları"
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "İşletmenizi dijital dünyada bir adım öne taşıyacak profesyonel çözümler sunuyoruz.",
+    "training": "Eğitimler",
+    "academia": "Akademi",
+    "courses": "Kurslar",
+    "software": "Yazılım",
+    "webMobile": "Web-Mobil-Masaüstü Yazılımlar",
+    "webMobileDesc": "İhtiyaçlarınız doğrultusunda hayal ettiğiniz iş fikirlerini dijital dünyaya taşıyacak olan yazılım ve kodlama çalışmalarını gerçekleştiriyoruz.",
+    "trainings": "Eğitimler",
+    "trainingsDesc": "Sektör lideri eğitmenler tarafından verilen özelleştirilmiş eğitimler. Şirketlerin ihtiyaçlarına özel danışmanlık hizmetleri ve ISO Yönetim Sistemleri.",
+    "corporateSolutions": "Kurumsal Çözümler",
+    "corporateSolutionsDesc": "Dijital dönüşüm yolculuğunuzda en güçlü çözüm ortağınız olmak için çalışıyoruz. Kurumsal çözümler sunarken hem saha içindeki hem de paydaşları göz önünde bulunduruyoruz.",
+    "consultancy": "Danışmanlık",
+    "consultancyDesc": "Cumhurbaşkanlığı Dijital Dönüşüm Ofisi - Bilgi ve İletişim Güvenliği Regülasyona Uyum Projesi Yapay Zeka Destekli Risk Analizi ve Yönetimi"
+  },
+  "products": {
+    "title": "ÜRÜNLERİMİZ",
+    "subtitle": "İşletmenizi geleceğe taşıyacak yenilikçi çözümler",
+    "riskCrews": "Risk Crews",
+    "riskCrewsSub": "AI Risk İstihbaratı",
+    "riskCrewsDesc": "Uzman değerlendirmelerini bulanık mantık algoritmaları ile ölçülebilir risk skorlarına dönüştüren AI destekli risk yönetim platformu.",
+    "mediCrews": "Medi Crews",
+    "mediCrewsSub": "Akıllı Hastane Operasyonları",
+    "mediCrewsDesc": "Klinik iş akışlarını ve kaynak yönetimini optimize ederek hastane operasyonlarını dijitalleştiren akıllı sağlık yönetim sistemi.",
+    "hotelCrews": "Hotel Crews",
+    "hotelCrewsSub": "Personel ve Misafir Otomasyonu",
+    "hotelCrewsDesc": "Otel operasyonlarını ve hizmet sunumunu optimize ederek personel ve misafir deneyimini otomatikleştiren platform.",
+    "emlakCrews": "Emlak Crews",
+    "emlakCrewsSub": "Emlak Analitiği",
+    "emlakCrewsDesc": "Emlak sektörüne özel olarak geliştirilmiş, veri odaklı mülk yönetimi ve analitik çözümler sunan platform.",
+    "drMemories": "DrMemories",
+    "drMemoriesSub": "Klinik Not AI",
+    "drMemoriesDesc": "Doğal dil işleme ile tıbbi dokümantasyonu otomatikleştiren ve yapay zeka ile klinik notlar oluşturan sistem."
+  },
+  "references": {
+    "title": "Referanslar",
+    "subtitle": "Önde gelen organizasyonlar tarafından güveniliyor"
+  },
+  "contact": {
+    "title": "İletişim",
+    "mainCampus": "Ana Kampüs",
+    "centralOffice": "Merkez Ofis",
+    "address": "Adres",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "centralOfficeDesc": "İstanbul Medeniyet Üniversitesi Bilim ve İleri Teknoloji Uygulama ve Araştırma Merkezi"
+  }
+}
+

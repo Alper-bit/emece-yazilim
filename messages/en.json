@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "ourServices": "Our Services",
+    "ourProducts": "Our Products",
+    "references": "References",
+    "contact": "Contact"
+  },
+  "about": {
+    "mission": "Mission",
+    "vision": "Vision",
+    "goal": "Goal",
+    "team": "Team"
+  },
+  "services": {
+    "training": "Training",
+    "academia": "Academia",
+    "courses": "Courses",
+    "software": "Software"
+  },
+  "home": {
+    "title": "EMECE YAZILIM",
+    "subtitle": "EDUCATION AND CONSULTANCY",
+    "description": "Established in 2024 with the support of Istanbul Medeniyet University Technopark, we aim to produce technological knowledge, develop innovations, improve quality, efficiency, and cost elements, commercialize knowledge, and offer national and international cooperation projects and services by fostering University-Industry collaboration.",
+    "discoverServices": "Discover Our Services",
+    "getInTouch": "Get in Touch",
+    "successfulProjects": "Successful Projects",
+    "happyCustomers": "Happy Customers",
+    "yearsExperience": "Years of Experience"
+  },
+  "aboutUs": {
+    "title": "About Us",
+    "description1": "We offer technology consulting and web applications with innovative and user-friendly mobile solutions designed specifically for you and your company, which will increase your competitive strength in your sector day by day.",
+    "description2": "In the solutions and applications we offer, we evaluate your business model, brand vision, target audience or user characteristics, and your preferences together. We aim to help you reach the ideal application as a result of these multi-variable development processes.",
+    "ourApproach": "Our Approach",
+    "ourApproachDesc": "In all the services we provide, we take into account your brand values, brand goals, user characteristics, and special requests.",
+    "ourCommitment": "Our Commitment",
+    "ourCommitmentDesc": "We enable you to reach ideal and sustainable applications that will ensure success at every stage.",
+    "strategicDevelopment": "Strategic Development",
+    "strategicDevelopmentDesc": "For the best results, we evaluate feedback on software or applications developed in accordance with the business plan and help you plan new strategies for the future.",
+    "expertDevelopers": "Expert Software Developers",
+    "professionalConsultants": "Professional Technology Consultants",
+    "techManagement": "Technology Management Experts"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We offer professional solutions that will take your business a step forward in the digital world.",
+    "training": "Training",
+    "academia": "Academia",
+    "courses": "Courses",
+    "software": "Software",
+    "webMobile": "Web-Mobile-Desktop Software",
+    "webMobileDesc": "We carry out software and coding work that will bring your imagined business ideas to the digital world in line with your needs.",
+    "trainings": "Trainings",
+    "trainingsDesc": "Customized trainings given by industry-leading instructors. Special consultancy services for companies' needs and ISO Management Systems.",
+    "corporateSolutions": "Corporate Solutions",
+    "corporateSolutionsDesc": "We strive to be your strongest solution partner in your digital transformation journey. While offering corporate solutions, we consider both internal operations and stakeholder needs.",
+    "consultancy": "Consultancy",
+    "consultancyDesc": "Presidency's Digital Transformation Office - Information and Communication Security Regulation Compliance Project. Artificial Intelligence Supported Risk Analysis and Management."
+  },
+  "products": {
+    "title": "OUR PRODUCTS",
+    "subtitle": "Innovative solutions to take your business into the future",
+    "riskCrews": "Risk Crews",
+    "riskCrewsSub": "AI Risk Intelligence",
+    "riskCrewsDesc": "AI-powered risk management platform that transforms expert assessments into measurable risk scores with fuzzy logic algorithms.",
+    "mediCrews": "Medi Crews",
+    "mediCrewsSub": "Smart Hospital Operations",
+    "mediCrewsDesc": "Smart healthcare management system that digitizes hospital operations by optimizing clinical workflows and resource management.",
+    "hotelCrews": "Hotel Crews",
+    "hotelCrewsSub": "Staff & Guest Automation",
+    "hotelCrewsDesc": "Platform that automates staff and guest experience by optimizing hotel operations and service delivery.",
+    "emlakCrews": "Emlak Crews",
+    "emlakCrewsSub": "Real Estate Analytics",
+    "emlakCrewsDesc": "Platform developed specifically for the real estate sector, offering data-driven property management and analytics solutions.",
+    "drMemories": "DrMemories",
+    "drMemoriesSub": "Clinical Note AI",
+    "drMemoriesDesc": "System that automates medical documentation with natural language processing and creates clinical notes with artificial intelligence."
+  },
+  "references": {
+    "title": "References",
+    "subtitle": "Trusted by leading organizations"
+  },
+  "contact": {
+    "title": "Contact",
+    "mainCampus": "Main Campus",
+    "centralOffice": "Central Office",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "centralOfficeDesc": "Istanbul Medeniyet University Science and Advanced Technology Application and Research Center"
+  }
+}
+
