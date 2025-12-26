@@ -13,15 +13,50 @@
     "goal": "Hedef",
     "team": "Takım"
   },
+  "aboutPage": {
+    "title": "Hakkımızda",
+    "mission": {
+      "title": "Misyonumuz",
+      "description": "Misyonumuz, müşterilerimizin sektörlerindeki rekabet gücünü artıran yenilikçi teknoloji danışmanlığı ve özel yazılım çözümleri sunmaktır. İşbirliği, yenilik ve müşterilerimizin benzersiz ihtiyaçlarını derinlemesine anlama yoluyla mükemmellik sunmaya kararlıyız."
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "description": "Uzmanlığımız, yeniliğimiz ve müşteri başarısına olan bağlılığımızla tanınan önde gelen bir teknoloji ortağı olmayı hedefliyoruz. Dijital dönüşümün ön saflarında yer alarak, işletmelerin en son çözümler ve stratejik rehberlik aracılığıyla hedeflerine ulaşmalarına yardımcı olmayı amaçlıyoruz."
+    },
+    "goal": {
+      "title": "Hedeflerimiz",
+      "description": "Birincil hedeflerimiz, müşterilerimize olağanüstü değer sunmak, uzun vadeli ortaklıklar geliştirmek, hizmet tekliflerimizi sürekli olarak yenilemek ve çeşitli sektörlerde teknolojinin ilerlemesine katkıda bulunmaktır. Beklentileri aşmayı ve ölçülebilir sonuçlar elde etmeyi hedefliyoruz."
+    }
+  },
+  "team": {
+    "title": "Ekibimiz",
+    "subtitle": "Başarımızı mümkün kılan yetenekli bireylerle tanışın",
+    "description": "Uzman ekibimiz, müşterilerimize olağanüstü sonuçlar sunmak için teknoloji, danışmanlık ve yenilik alanlarında yılların deneyimini bir araya getiriyor."
+  },
   "services": {
     "safetyLab": "Safety Lab",
     "mindLab": "Mind Lab",
-    "training": "Eğitimler",
+    "training": "Eğitim",
+    "isgTraining": "İSG Eğitim Kursları",
+    "ggTraining": "G&G Eğitim Kursları",
+    "trainingCalendar": "Eğitim Takvimi",
+    "courseDescriptionForm": "Kurs Tanıtım Formu",
+    "consultation": "Danışmanlık",
+    "projectsList": "Projeler Listesi",
+    "rnd": "Ar-Ge ve Projeler",
+    "publicationsList": "Yayınlar Listesi",
+    "softwareDevelopments": "Yazılım Geliştirme",
+    "software": "Programlama ve Yazılım Geliştirme",
+    "products": "Ürünler",
     "academia": "Akademi",
     "courses": "Kurslar",
-    "software": "Yazılım",
     "title": "Hizmetlerimiz",
     "subtitle": "Dijital dönüşümünüz için profesyonel çözümler.",
+    "trainingDesc": "Sektör lideri eğitmenler tarafından verilen özelleştirilmiş eğitimler. Şirketlerin ihtiyaçlarına özel danışmanlık hizmetleri ve ISO Yönetim Sistemleri.",
+    "consultationRndProjects": "Danışmanlık, Ar-Ge ve Projeler",
+    "consultationRndProjectsDesc": "İşletmenizin yenilik yapmasına ve büyümesine yardımcı olmak için kapsamlı danışmanlık hizmetleri, araştırma ve geliştirme projeleri ve stratejik proje yönetimi.",
+    "programmingSoftware": "Programlama ve Yazılım Geliştirme",
+    "programmingSoftwareDesc": "İhtiyaçlarınız doğrultusunda hayal ettiğiniz iş fikirlerini dijital dünyaya taşıyacak olan yazılım ve kodlama çalışmalarını gerçekleştiriyoruz. Web, mobil ve masaüstü uygulama geliştirme.",
     "webMobile": "Web-Mobil-Masaüstü Yazılımlar",
     "webMobileDesc": "İhtiyaçlarınız doğrultusunda hayal ettiğiniz iş fikirlerini dijital dünyaya taşıyacak olan yazılım ve kodlama çalışmalarını gerçekleştiriyoruz.",
     "trainings": "Eğitimler",
@@ -79,7 +114,60 @@
     "featureSupport": "Destek grubu",
     "featurePDU": "PDU",
     "featureInPerson": "Yüz yüze",
-    "featureDuration": "4 ila 6 günlük eğitim"
+    "featureDuration": "4 ila 6 günlük eğitim",
+    "horticulturalTherapy": {
+      "title": "HORTİKÜLTÜREL TERAPİ UYGULAMALARI KURSU",
+      "date": "14.01.2026-15.01.2026",
+      "duration": "16 Saat, 2 Gün",
+      "type": "Online",
+      "purpose": "Bu eğitim, hortikültürel terapi uygulamalarına yönelik farkındalık kazandırmak amacıyla hazırlanmıştır. Eğitim, hortikültürel terapi uygulamalarının sağlık ve sosyal bakım alanlarında nasıl destekleyici bir unsur olarak kullanılabileceğini göstermeyi amaçlamaktadır.",
+      "learningGoals": [
+        "Katılımcıların hortikültürel terapi uygulamalarının felsefesini ve bilimsel temellerini kavramalarını sağlayacaktır.",
+        "Katılımcıların hortikültürel terapi uygulamalarının fiziksel, ruhsal ve sosyal etkilerini kanıta dayalı öğrenmelerini sağlayacaktır.",
+        "Katılımcıların hortikültürel terapi uygulamalarıyla ilgili program geliştirme becerilerini artıracaktır."
+      ],
+      "targetAudience": "Sağlık profesyonelleri, sosyal hizmet ve bakım alanında çalışanlar, peyzaj mimarları, ziraat mühendisleri, konuyla ilgilenen lisans ve lisansüstü öğrenciler.",
+      "content": [
+        {
+          "module": "Modül 1",
+          "items": [
+            "Doğayla Bağ Kurma, Doğa Temelli Müdahaleler ve Sağlık Etkileri",
+            "Hortikültürel Terapinin Tanımı ve Tarihçesi",
+            "Hortikültürel Terapinin Biyokimyasal Etkileri",
+            "Hortikültürel Terapinin Fiziksel Etkileri",
+            "Hortikültürel Terapinin Psikolojik Etkileri",
+            "Hortikültürel Terapinin Sosyal Etkileri",
+            "Evrensel Tasarım ve Hortikültürel Terapi"
+          ]
+        },
+        {
+          "module": "Modül 2",
+          "items": [
+            "Hortikültürel Terapi Uygulamalarında Bitkisel Üretim Teknikleri",
+            "Hortikültürel Terapi Uygulamalarında Program Oluşturma Süreci",
+            "Grup Çalışması",
+            "Uygulama Örneği I",
+            "Uygulama Örneği II",
+            "UYGULAMA I - Terraryum Atölyesi",
+            "UYGULAMA II - Terraryum Atölyesi"
+          ]
+        }
+      ],
+      "methods": "Eğitim sırasında kullanılacak yaklaşımlar: Sunum, Grup çalışması, Uygulama örnekleri, Uygulamalı eğitim.",
+      "materials": "Eğitmen notları ve terraryum tasarımı malzemeleri.",
+      "trainers": [
+        "Doç. Dr. Hacer GÖK UĞUR, Halk Sağlığı Hemşireliği",
+        "Dr. Öğr. Üyesi Şeyma ŞENGÜR, Peyzaj Mimarlığı",
+        "Prof. Dr. Adnan UĞUR, Bahçe Bitkileri",
+        "Doç. Dr. Diler US ALTAY, Tıbbi Biyokimya",
+        "Doç. Dr. Oya Sevcan ORAK, Psikiyatri Hemşireliği",
+        "Dr. Öğr. Üyesi Ayla HENDEKCİ, Halk Sağlığı Hemşireliği",
+        "Uzman Hemşire Mürselcan KABAKCI, Halk Sağlığı Hemşireliği"
+      ],
+      "evaluation": "Ön test – Son test.",
+      "capacity": "20 Kişi",
+      "fee": "3000 TL"
+    }
   },
   "home": {
     "title": "EMECE YAZILIM",
@@ -140,6 +228,71 @@
   "language": {
     "english": "İngilizce",
     "turkish": "Türkçe"
+  },
+  "common": {
+    "educationalCollective": "Eğitim Kolektifi",
+    "menu": "Menü",
+    "standardExcellence": "Standart Mükemmellik",
+    "excellenceInCraft": "Zanaat Mükemmelliği",
+    "discoverServices": "Hizmetleri Keşfedin",
+    "getInTouch": "İletişime Geçin",
+    "consultancy": "Danışmanlık",
+    "successfulProjects": "Başarılı Proje",
+    "experience": "Deneyim",
+    "yearsOfPractice": "Yıllık Uygulama",
+    "reliability": "Güvenilirlik",
+    "clientSatisfaction": "Müşteri Memnuniyeti",
+    "serviceUnits": "Hizmet Birimleri",
+    "strategicLearning": "Stratejik Öğrenme",
+    "innovationSync": "İnovasyon Senkronizasyonu",
+    "digitalCraft": "Dijital Zanaat",
+    "featuredSolutions": "Öne Çıkan Çözümler",
+    "corporatePortfolio": "Kurumsal Portfolyo 2025",
+    "riskManagement": "Risk Yönetimi",
+    "healthSystems": "Sağlık Sistemleri",
+    "serviceAutomation": "Servis Otomasyonu",
+    "realEstate": "Gayrimenkul",
+    "verifiedSolution": "Doğrulanmış Çözüm",
+    "solutionDetails": "Çözüm Detayları",
+    "readyTo": "Hazır Mısınız",
+    "evolve": "Gelişmeye",
+    "startYourJourney": "Yolculuğunuza Başlayın",
+    "refiningExcellence": "Birlikte Mükemmelliği Geliştiriyoruz // Emece Kolektif",
+    "professionalDevelopment": "Profesyonel Gelişim",
+    "trainingProgram": "Eğitim Programı",
+    "schedule": "Tarih",
+    "duration": "Süre",
+    "format": "Format",
+    "missionProfile": "Misyon Profili",
+    "coursePurpose": "Kurs Amacı",
+    "objectives": "Hedefler",
+    "learningGoals": "Öğrenme Hedefleri",
+    "courseCurriculum": "Kurs Müfredatı",
+    "detailedModules": "Detaylı Modüller",
+    "idealParticipants": "İdeal Katılımcılar",
+    "whoShouldAttend": "Kimler Katılmalı?",
+    "expertFaculty": "Uzman Kadro",
+    "courseTrainers": "Kurs Eğitmenleri",
+    "courseFee": "Kurs Ücreti",
+    "capacityLimit": "Kontenjan",
+    "evaluation": "Değerlendirme",
+    "registerNow": "Şimdi Kayıt Olun",
+    "courseDocumentation": "Kurs Dokümantasyonu",
+    "emeceCollectiveEducation": "Emece Kolektif Eğitim",
+    "corporateProfile": "Kurumsal Profil",
+    "operationalStandards": "Operasyonel Standartlar",
+    "refinedApproach": "Kolektif danışmanlık ve profesyonel hassasiyete yönelik rafine bir yaklaşım.",
+    "coreMission": "Temel Misyon",
+    "futureVision": "Gelecek Vizyonu",
+    "strategicGoal": "Stratejik Hedef",
+    "statusVerified": "Durum: Doğrulanmış Veri",
+    "professionalDocument": "Profesyonel Doküman",
+    "emeceCollectiveConsultancy": "Emece Kolektif Danışmanlık",
+    "establishConnection": "Bağlantı Kurun",
+    "campusLocation": "Kampüs Konumu",
+    "additionalInfo": "Ek Bilgi",
+    "locationVerified": "Konum Doğrulandı",
+    "liveConnection": "Canlı Bağlantı"
   }
 }
 

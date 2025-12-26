@@ -47,17 +47,69 @@
     "title": "Hizmetlerimiz",
     "subtitle": "İşletmenizi dijital dünyada bir adım öne taşıyacak profesyonel çözümler sunuyoruz.",
     "training": "Eğitimler",
-    "academia": "Akademi",
-    "courses": "Kurslar",
-    "software": "Yazılım",
-    "webMobile": "Web-Mobil-Masaüstü Yazılımlar",
-    "webMobileDesc": "İhtiyaçlarınız doğrultusunda hayal ettiğiniz iş fikirlerini dijital dünyaya taşıyacak olan yazılım ve kodlama çalışmalarını gerçekleştiriyoruz.",
-    "trainings": "Eğitimler",
-    "trainingsDesc": "Sektör lideri eğitmenler tarafından verilen özelleştirilmiş eğitimler. Şirketlerin ihtiyaçlarına özel danışmanlık hizmetleri ve ISO Yönetim Sistemleri.",
-    "corporateSolutions": "Kurumsal Çözümler",
-    "corporateSolutionsDesc": "Dijital dönüşüm yolculuğunuzda en güçlü çözüm ortağınız olmak için çalışıyoruz. Kurumsal çözümler sunarken hem saha içindeki hem de paydaşları göz önünde bulunduruyoruz.",
-    "consultancy": "Danışmanlık",
-    "consultancyDesc": "Cumhurbaşkanlığı Dijital Dönüşüm Ofisi - Bilgi ve İletişim Güvenliği Regülasyona Uyum Projesi Yapay Zeka Destekli Risk Analizi ve Yönetimi"
+    "isgTraining": "İSG Eğitim Kursları",
+    "ggTraining": "G&G Eğitim Kursları",
+    "trainingCalendar": "Eğitim Takvimi",
+    "courseDescriptionForm": "Kurs Tanıtım Formu",
+    "consultation": "Danışmanlık",
+    "projectsList": "Projeler Listesi",
+    "rnd": "Ar-Ge ve Projeler",
+    "publicationsList": "Yayınlar Listesi",
+    "software": "Programlama ve Yazılım Geliştirme",
+    "products": "Ürünler",
+    "horticulturalTherapy": {
+      "title": "HORTİKÜLTÜREL TERAPİ UYGULAMALARI KURSU",
+      "date": "14.01.2026-15.01.2026",
+      "duration": "16 Saat, 2 Gün",
+      "type": "Online",
+      "purpose": "Bu eğitim, hortikültürel terapi uygulamalarına yönelik farkındalık kazandırmak amacıyla hazırlanmıştır. Eğitim, hortikültürel terapi uygulamalarının sağlık ve sosyal bakım alanlarında nasıl destekleyici bir unsur olarak kullanılabileceğini göstermeyi amaçlamaktadır.",
+      "learningGoals": [
+        "Katılımcıların hortikültürel terapi uygulamalarının felsefesini ve bilimsel temellerini kavramalarını sağlayacaktır.",
+        "Katılımcıların hortikültürel terapi uygulamalarının fiziksel, ruhsal ve sosyal etkilerini kanıta dayalı öğrenmelerini sağlayacaktır.",
+        "Katılımcıların hortikültürel terapi uygulamalarıyla ilgili program geliştirme becerilerini artıracaktır."
+      ],
+      "targetAudience": "Sağlık profesyonelleri, sosyal hizmet ve bakım alanında çalışanlar, peyzaj mimarları, ziraat mühendisleri, konuyla ilgilenen lisans ve lisansüstü öğrenciler.",
+      "content": [
+        {
+          "module": "Modül 1",
+          "items": [
+            "Doğayla Bağ Kurma, Doğa Temelli Müdahaleler ve Sağlık Etkileri",
+            "Hortikültürel Terapinin Tanımı ve Tarihçesi",
+            "Hortikültürel Terapinin Biyokimyasal Etkileri",
+            "Hortikültürel Terapinin Fiziksel Etkileri",
+            "Hortikültürel Terapinin Psikolojik Etkileri",
+            "Hortikültürel Terapinin Sosyal Etkileri",
+            "Evrensel Tasarım ve Hortikültürel Terapi"
+          ]
+        },
+        {
+          "module": "Modül 2",
+          "items": [
+            "Hortikültürel Terapi Uygulamalarında Bitkisel Üretim Teknikleri",
+            "Hortikültürel Terapi Uygulamalarında Program Oluşturma Süreci",
+            "Grup Çalışması",
+            "Uygulama Örneği I",
+            "Uygulama Örneği II",
+            "UYGULAMA I - Terraryum Atölyesi",
+            "UYGULAMA II - Terraryum Atölyesi"
+          ]
+        }
+      ],
+      "methods": "Eğitim sırasında kullanılacak yaklaşımlar: Sunum, Grup çalışması, Uygulama örnekleri, Uygulamalı eğitim.",
+      "materials": "Eğitmen notları ve terraryum tasarımı malzemeleri.",
+      "trainers": [
+        "Doç. Dr. Hacer GÖK UĞUR, Halk Sağlığı Hemşireliği",
+        "Dr. Öğr. Üyesi Şeyma ŞENGÜR, Peyzaj Mimarlığı",
+        "Prof. Dr. Adnan UĞUR, Bahçe Bitkileri",
+        "Doç. Dr. Diler US ALTAY, Tıbbi Biyokimya",
+        "Doç. Dr. Oya Sevcan ORAK, Psikiyatri Hemşireliği",
+        "Dr. Öğr. Üyesi Ayla HENDEKCİ, Halk Sağlığı Hemşireliği",
+        "Uzman Hemşire Mürselcan KABAKCI, Halk Sağlığı Hemşireliği"
+      ],
+      "evaluation": "Ön test – Son test.",
+      "capacity": "20 Kişi",
+      "fee": "3000 TL"
+    }
   },
   "products": {
     "title": "ÜRÜNLERİMİZ",

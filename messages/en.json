@@ -47,17 +47,69 @@
     "title": "Our Services",
     "subtitle": "We offer professional solutions that will take your business a step forward in the digital world.",
     "training": "Training",
-    "academia": "Academia",
-    "courses": "Courses",
-    "software": "Software",
-    "webMobile": "Web-Mobile-Desktop Software",
-    "webMobileDesc": "We carry out software and coding work that will bring your imagined business ideas to the digital world in line with your needs.",
-    "trainings": "Trainings",
-    "trainingsDesc": "Customized trainings given by industry-leading instructors. Special consultancy services for companies' needs and ISO Management Systems.",
-    "corporateSolutions": "Corporate Solutions",
-    "corporateSolutionsDesc": "We strive to be your strongest solution partner in your digital transformation journey. While offering corporate solutions, we consider both internal operations and stakeholder needs.",
-    "consultancy": "Consultancy",
-    "consultancyDesc": "Presidency's Digital Transformation Office - Information and Communication Security Regulation Compliance Project. Artificial Intelligence Supported Risk Analysis and Management."
+    "isgTraining": "ISG Training Courses",
+    "ggTraining": "G&G Training Courses",
+    "trainingCalendar": "Training Calendar",
+    "courseDescriptionForm": "Course Description Form",
+    "consultation": "Consultation",
+    "projectsList": "Projects List",
+    "rnd": "R&D and Projects",
+    "publicationsList": "Publications List",
+    "software": "Programming & Software Development",
+    "products": "Products",
+    "horticulturalTherapy": {
+      "title": "HORTICULTURAL THERAPY APPLICATIONS COURSE",
+      "date": "14.01.2026-15.01.2026",
+      "duration": "16 Hours, 2 Days",
+      "type": "Online",
+      "purpose": "This training is prepared to raise awareness about horticultural therapy applications. It aims to show how horticultural therapy applications can be used as a supportive element in health and social care areas.",
+      "learningGoals": [
+        "Participants will learn the philosophy and scientific foundations of horticultural therapy applications.",
+        "Participants will learn the physical, mental, and social effects of horticultural therapy applications based on evidence.",
+        "Participants will gain program development skills related to horticultural therapy applications."
+      ],
+      "targetAudience": "Health professionals, social service and care workers, landscape architects, agricultural engineers, and undergraduate and graduate students interested in the subject.",
+      "content": [
+        {
+          "module": "Module 1",
+          "items": [
+            "Connecting with Nature, Nature-Based Interventions and Health Effects",
+            "Definition and History of Horticultural Therapy",
+            "Biochemical Effects of Horticultural Therapy",
+            "Physical Effects of Horticultural Therapy",
+            "Psychological Effects of Horticultural Therapy",
+            "Social Effects of Horticultural Therapy",
+            "Universal Design and Horticultural Therapy"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "items": [
+            "Plant Production Techniques in Horticultural Therapy Applications",
+            "Program Creation Process in Horticultural Therapy",
+            "Group Work",
+            "Application Example I",
+            "Application Example II",
+            "PRACTICE I - Terrarium Workshop",
+            "PRACTICE II - Terrarium Workshop"
+          ]
+        }
+      ],
+      "methods": "Approaches to be used during training: Presentation, Group work, Application examples, Practical training.",
+      "materials": "Trainer notes and terrarium design materials.",
+      "trainers": [
+        "Doç. Dr. Hacer GÖK UĞUR, Public Health Nursing",
+        "Dr. Öğr. Üyesi Şeyma ŞENGÜR, Landscape Architecture",
+        "Prof. Dr. Adnan UĞUR, Garden Plants",
+        "Doç. Dr. Diler US ALTAY, Medical Biochemistry",
+        "Doç. Dr. Oya Sevcan ORAK, Psychiatric Nursing",
+        "Dr. Öğr. Üyesi Ayla HENDEKCİ, Public Health Nursing",
+        "Uzman Hemşire Mürselcan KABAKCI, Public Health Nursing"
+      ],
+      "evaluation": "Pre-test - Post-test.",
+      "capacity": "20 People",
+      "fee": "3000 TL"
+    }
   },
   "products": {
     "title": "OUR PRODUCTS",

@@ -13,15 +13,50 @@
     "goal": "Goal",
     "team": "Team"
   },
+  "aboutPage": {
+    "title": "About Us",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Our mission is to provide innovative technology consulting and custom software solutions that strengthen our clients' competitive position in their sectors. We are committed to delivering excellence through collaboration, innovation, and a deep understanding of our clients' unique needs."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "We envision becoming a leading technology partner recognized for our expertise, innovation, and commitment to client success. We strive to be at the forefront of digital transformation, helping businesses achieve their goals through cutting-edge solutions and strategic guidance."
+    },
+    "goal": {
+      "title": "Our Goals",
+      "description": "Our primary goals are to deliver exceptional value to our clients, foster long-term partnerships, continuously innovate our service offerings, and contribute to the advancement of technology in various industries. We aim to exceed expectations and drive measurable results."
+    }
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Meet the talented individuals who make our success possible",
+    "description": "Our diverse team of experts brings together years of experience in technology, consulting, and innovation to deliver exceptional results for our clients."
+  },
   "services": {
     "safetyLab": "Safety Lab",
     "mindLab": "Mind Lab",
     "training": "Training",
+    "isgTraining": "ISG Training Courses",
+    "ggTraining": "G&G Training Courses",
+    "trainingCalendar": "Training Calendar",
+    "courseDescriptionForm": "Course Description Form",
+    "consultation": "Consultation",
+    "projectsList": "Projects List",
+    "rnd": "R&D and Projects",
+    "publicationsList": "Publications List",
+    "softwareDevelopments": "Software Developments",
+    "software": "Programming & Software Development",
+    "products": "Products",
     "academia": "Academia",
     "courses": "Courses",
-    "software": "Software",
     "title": "Our Services",
     "subtitle": "Professional solutions for your digital transformation.",
+    "trainingDesc": "Customized trainings given by industry-leading instructors. Special consultancy services for companies' needs and ISO Management Systems.",
+    "consultationRndProjects": "Consultation, R&D and Projects",
+    "consultationRndProjectsDesc": "Comprehensive consultation services, research and development projects, and strategic project management to help your business innovate and grow.",
+    "programmingSoftware": "Programming & Software Development",
+    "programmingSoftwareDesc": "We carry out software and coding work that will bring your imagined business ideas to the digital world in line with your needs. Web, mobile, and desktop application development.",
     "webMobile": "Web-Mobile-Desktop Software",
     "webMobileDesc": "We carry out software and coding work that will bring your imagined business ideas to the digital world in line with your needs.",
     "trainings": "Trainings",
@@ -79,7 +114,60 @@
     "featureSupport": "Support group",
     "featurePDU": "PDU",
     "featureInPerson": "In person",
-    "featureDuration": "4 to 6 days of training"
+    "featureDuration": "4 to 6 days of training",
+    "horticulturalTherapy": {
+      "title": "HORTICULTURAL THERAPY APPLICATIONS COURSE",
+      "date": "14.01.2026-15.01.2026",
+      "duration": "16 Hours, 2 Days",
+      "type": "Online",
+      "purpose": "This training is prepared to raise awareness about horticultural therapy applications. It aims to show how horticultural therapy applications can be used as a supportive element in health and social care areas.",
+      "learningGoals": [
+        "Participants will learn the philosophy and scientific foundations of horticultural therapy applications.",
+        "Participants will learn the physical, mental, and social effects of horticultural therapy applications based on evidence.",
+        "Participants will gain program development skills related to horticultural therapy applications."
+      ],
+      "targetAudience": "Health professionals, social service and care workers, landscape architects, agricultural engineers, and undergraduate and graduate students interested in the subject.",
+      "content": [
+        {
+          "module": "Module 1",
+          "items": [
+            "Connecting with Nature, Nature-Based Interventions and Health Effects",
+            "Definition and History of Horticultural Therapy",
+            "Biochemical Effects of Horticultural Therapy",
+            "Physical Effects of Horticultural Therapy",
+            "Psychological Effects of Horticultural Therapy",
+            "Social Effects of Horticultural Therapy",
+            "Universal Design and Horticultural Therapy"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "items": [
+            "Plant Production Techniques in Horticultural Therapy Applications",
+            "Program Creation Process in Horticultural Therapy",
+            "Group Work",
+            "Application Example I",
+            "Application Example II",
+            "PRACTICE I - Terrarium Workshop",
+            "PRACTICE II - Terrarium Workshop"
+          ]
+        }
+      ],
+      "methods": "Approaches to be used during training: Presentation, Group work, Application examples, Practical training.",
+      "materials": "Trainer notes and terrarium design materials.",
+      "trainers": [
+        "Doç. Dr. Hacer GÖK UĞUR, Public Health Nursing",
+        "Dr. Öğr. Üyesi Şeyma ŞENGÜR, Landscape Architecture",
+        "Prof. Dr. Adnan UĞUR, Garden Plants",
+        "Doç. Dr. Diler US ALTAY, Medical Biochemistry",
+        "Doç. Dr. Oya Sevcan ORAK, Psychiatric Nursing",
+        "Dr. Öğr. Üyesi Ayla HENDEKCİ, Public Health Nursing",
+        "Uzman Hemşire Mürselcan KABAKCI, Public Health Nursing"
+      ],
+      "evaluation": "Pre-test - Post-test.",
+      "capacity": "20 People",
+      "fee": "3000 TL"
+    }
   },
   "home": {
     "title": "EMECE YAZILIM",
@@ -140,6 +228,71 @@
   "language": {
     "english": "English",
     "turkish": "Turkish"
+  },
+  "common": {
+    "educationalCollective": "Educational Collective",
+    "menu": "Menu",
+    "standardExcellence": "Standard Excellence",
+    "excellenceInCraft": "Excellence in Craft",
+    "discoverServices": "Discover Services",
+    "getInTouch": "Get In Touch",
+    "consultancy": "Consultancy",
+    "successfulProjects": "Successful Projects",
+    "experience": "Experience",
+    "yearsOfPractice": "Years of Practice",
+    "reliability": "Reliability",
+    "clientSatisfaction": "Client Satisfaction",
+    "serviceUnits": "Service Units",
+    "strategicLearning": "Strategic Learning",
+    "innovationSync": "Innovation Sync",
+    "digitalCraft": "Digital Craft",
+    "featuredSolutions": "Featured Solutions",
+    "corporatePortfolio": "Corporate Portfolio 2025",
+    "riskManagement": "Risk Management",
+    "healthSystems": "Health Systems",
+    "serviceAutomation": "Service Automation",
+    "realEstate": "Real Estate",
+    "verifiedSolution": "Verified Solution",
+    "solutionDetails": "Solution Details",
+    "readyTo": "Ready To",
+    "evolve": "Evolve",
+    "startYourJourney": "Start Your Journey",
+    "refiningExcellence": "Refining Excellence Together // Emece Collective",
+    "professionalDevelopment": "Professional Development",
+    "trainingProgram": "Training Program",
+    "schedule": "Schedule",
+    "duration": "Duration",
+    "format": "Format",
+    "missionProfile": "Mission Profile",
+    "coursePurpose": "Course Purpose",
+    "objectives": "Objectives",
+    "learningGoals": "Learning Goals",
+    "courseCurriculum": "Course Curriculum",
+    "detailedModules": "Detailed Modules",
+    "idealParticipants": "Ideal Participants",
+    "whoShouldAttend": "Who Should Attend?",
+    "expertFaculty": "Expert Faculty",
+    "courseTrainers": "Course Trainers",
+    "courseFee": "Course Fee",
+    "capacityLimit": "Capacity Limit",
+    "evaluation": "Evaluation",
+    "registerNow": "Register Now",
+    "courseDocumentation": "Course Documentation",
+    "emeceCollectiveEducation": "Emece Collective Education",
+    "corporateProfile": "Corporate Profile",
+    "operationalStandards": "Operational Standards",
+    "refinedApproach": "A refined approach to collective consultancy and professional precision.",
+    "coreMission": "Core Mission",
+    "futureVision": "Future Vision",
+    "strategicGoal": "Strategic Goal",
+    "statusVerified": "Status: Verified Data",
+    "professionalDocument": "Professional Document",
+    "emeceCollectiveConsultancy": "Emece Collective Consultancy",
+    "establishConnection": "Establish Connection",
+    "campusLocation": "Campus Location",
+    "additionalInfo": "Additional Info",
+    "locationVerified": "Location Verified",
+    "liveConnection": "Live Connection"
   }
 }
 
