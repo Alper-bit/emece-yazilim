@@ -73,7 +73,7 @@ export default function AboutPage() {
                     {section.title}
                   </h2>
                   <p className="font-sans text-xl text-slate-500 leading-relaxed max-w-3xl border-l-4 border-slate-50 pl-12 font-medium">
-                    {section.description || section.desc}
+                    {section.desc}
                   </p>
                 </div>
               </div>

@@ -109,7 +109,7 @@ export default function MindLabPage() {
             ))}
           </div>
         </div>
-      </main>
+      </div>
       
       {/* Background Watermark */}
       <div className="fixed top-0 right-0 font-display text-[25vw] font-black text-white/[0.01] leading-none pointer-events-none select-none">

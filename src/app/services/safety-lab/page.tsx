@@ -72,7 +72,7 @@ export default function SafetyLabPage() {
             ))}
           </div>
         </div>
-      </main>
+      </div>
       
       {/* Background Watermark */}
       <div className="fixed bottom-0 left-0 font-display text-[25vw] font-black text-white/[0.01] leading-none pointer-events-none select-none">
